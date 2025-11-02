@@ -2884,9 +2884,7 @@ ceph config rm osd <parameter>
    - Ceph Mailing Lists: https://ceph.io/community/
 
 3. **Emergency Contacts:**
-   - [Добавить контакты вашей команды]
-   - [Добавить on-call rotation]
-   - [Добавить escalation path]
+
 
 ---
 
