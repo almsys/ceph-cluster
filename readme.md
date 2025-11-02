@@ -2890,17 +2890,3 @@ ceph config rm osd <parameter>
 
 ---
 
-
-# НЕМЕДЛЕННО добавить новые MON!
-```
-
----
-
-## Troubleshooting
-
-### Проблема 1: OSD не стартует
-
-**Симптомы:**
-```bash
-systemctl status ceph-osd@5
-# Failed to start Ceph OSD Daemon
